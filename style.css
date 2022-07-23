@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+
+    color: #1e1f26;
+    font: 18px/1.5 sans-serif;
+}
+
+form {
+    width: 300px;
+}
+
+fieldset {
+    margin: 0 0 20px;
+    padding: 20px 15px;
+
+    border: 1px solid #ae63e4;
+}
+
+button {
+    padding: 10px 24px;
+    border: none;
+    border-radius: 7px;
+
+    color: #fff;
+    font-weight: bold;
+
+    background: #47cf73;
+
+    cursor: pointer;
+}
